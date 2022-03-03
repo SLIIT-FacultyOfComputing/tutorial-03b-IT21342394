@@ -165,7 +165,7 @@ Reference type variables in C++ have a & sign in front of the parameter. Referen
 2. Modify the parameters of your input function as given below, to use length and width as reference type parameters.
 
 ```void input(int &length, int &width);```
-
+x
 3. Do you get the correct values printed ?
 
 ```c++
@@ -190,5 +190,6 @@ void print(int len, int wth) {
 }
 
 // Implement the Input Function here
+
 ```
 
